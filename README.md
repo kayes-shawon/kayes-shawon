@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer based in Bangladesh, Working as a core & RnD Engineer in a fintech company. Python and Golang lover.
+I'm a software engineer based in Bangladesh, Working as a Core & RnD Engineer in a fintech company. Python and Golang lover.
 
 
 
