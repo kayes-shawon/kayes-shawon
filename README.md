@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer based in Bangladesh, Working as a core & RnD Engineer in a fintech company. Python and Golang lover.
+
+
+
 <!--
 **kayes-shawon/kayes-shawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
