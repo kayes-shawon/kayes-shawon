@@ -94,7 +94,7 @@
 <a href="https://twitter.com/MdForidurkayes" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/kayes.shawon" target="_blank">
+<a href="https://dev.to/kayesshawon" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/foridur-kayes-shawon" target="_blank">
